@@ -1,0 +1,2 @@
+requests 返回异常：{'code': -352, 'message': '-352', 'ttl': 1}
+请求地址：https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all
